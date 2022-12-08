@@ -10,7 +10,7 @@
 - Ima te sef [ ox_inventory ]
 - Treba triggovati boss meni
 
-Respect @vulegg#5757
+Respect vulegg
 
 
 https://youtu.be/rRibBtSCdgM
