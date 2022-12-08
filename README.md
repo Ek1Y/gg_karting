@@ -1,6 +1,6 @@
 # Simple Karting Sistem
 
-# By : EkY & VuleGg
+# By : EkY & VuleGG
 
 - Treba vam zeton kako bi rentali vozilo
 - Kada kupite zeton novac ide u organizaciju
