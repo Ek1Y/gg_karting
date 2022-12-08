@@ -11,7 +11,7 @@ else
     end)
 end
 
-local tajmer = 300
+local tajmer = Config.Global["VremeRenta"]
 local ox_inventory = exports.ox_inventory
 
 
