@@ -7,6 +7,7 @@ Config.Global = {
     ["ZetonItem"] = "zetony",
     ["ZetonMoney"] = 20,
     ["ZetonRemoveRent"] = 1,
+    ["VremeRenta"] = 300,
 }
 
 Config.Logovi = {
