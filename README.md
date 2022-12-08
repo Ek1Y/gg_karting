@@ -1,8 +1,8 @@
-##Simple Karting Sistem
+#Simple Karting Sistem
 
-##Kod radio VuleGG```
+#Kod radio VuleGG```
 
-##Config : EkY```
+#Config : EkY```
 
 
 - Treba vam zeton kako bi rentali vozilo
