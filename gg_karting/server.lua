@@ -79,7 +79,7 @@ if GetCurrentResourceName ~= "gg_karting" then
   print("#      #    # #    # #    # #    #  ################    Promijenite '" .. GetCurrentResourceName .. "' u 'gg_karting'")
   print("###    ###### ###### #    # ######  ##################  ili skripta nece raditi!")
   print("#      # ##   # ##   #    # # ##    ################    Ostavite ime skripte kako je i bilo")
-  print("###### #   ## #   ## ###### #   ##  ##############      By : vulegg#5757")
+  print("###### #   ## #   ## ###### #   ##  ##############      By : EkY & vulegg")
   print("                                             ###")
   print("                                             #")
   StopResource(GetCurrentResourceName)
@@ -94,7 +94,7 @@ CreateThread(function()
   end
   if GetResourceState('gg_karting') == 'started' then
       print('^4gg_karting : Uspesno Startan')
-      print('^8gg_karting : By : vulegg#5757')
+      print('^8gg_karting : By : EkY & vulegg')
   end
 end)
 
