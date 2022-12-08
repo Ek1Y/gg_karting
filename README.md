@@ -1,6 +1,6 @@
 # Simple Karting Sistem
 
-# Kod radio VuleGG# 
+# Kod radio VuleGG
 
 # Config : EkY
 
