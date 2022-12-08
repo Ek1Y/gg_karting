@@ -2,7 +2,7 @@ fx_version 'cerulean'
 
 game 'gta5'
 
-author 'VuleGG'
+author 'EkY & VuleGG'
 
 description 'Karting Script'
 
